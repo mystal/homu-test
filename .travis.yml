@@ -1,0 +1,10 @@
+language: rust
+
+rust:
+    - stable
+
+notifications: http://wheatley.duckdns.org:54856/travis
+
+#branches:
+#    only:
+#        - auto
